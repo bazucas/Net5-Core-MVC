@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis\\Desktop\\.Net 5\\BookListingMVC\\BookListingMVC.csproj": {}
+    "D:\\.Net 5\\BookListingMVC\\BookListingMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis\\Desktop\\.Net 5\\BookListingMVC\\BookListingMVC.csproj": {
+    "D:\\.Net 5\\BookListingMVC\\BookListingMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis\\Desktop\\.Net 5\\BookListingMVC\\BookListingMVC.csproj",
+        "projectUniqueName": "D:\\.Net 5\\BookListingMVC\\BookListingMVC.csproj",
         "projectName": "BookListingMVC",
-        "projectPath": "C:\\Users\\Luis\\Desktop\\.Net 5\\BookListingMVC\\BookListingMVC.csproj",
+        "projectPath": "D:\\.Net 5\\BookListingMVC\\BookListingMVC.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis\\Desktop\\.Net 5\\BookListingMVC\\obj\\",
+        "outputPath": "D:\\.Net 5\\BookListingMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
